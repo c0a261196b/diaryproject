@@ -1,0 +1,7 @@
+## 個人情報にかかわるファイルを対象外に
+diaries
+diaries/
+
+## pythonキャッシュファイルを対象外に
+__pycache__
+*.pyc
